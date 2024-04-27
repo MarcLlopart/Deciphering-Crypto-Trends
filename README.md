@@ -5,13 +5,13 @@ Google Trends Analysis and Predictive Modeling
 ### EDA - 10 POINTS - STATUS: Almost Done(Final bucle)
 Conduct exploratory data analysis (EDA) on the dataset. What valuable insights can be derived from this analysis?
 
-### PAST VS CURRENT TREND CYCLES - 10 POINTS
+### PAST VS CURRENT TREND CYCLES - 10 POINTS - Done
 Contrast present Google Trends data with those from preceding cycles. What does this comparative analysis unveil regarding the ongoing cycle?
 
-### TOKEN PRICE VS TRENDS - 5 POINTS -STATUS: Done (Check DF with count 0 or <1)
+### TOKEN PRICE VS TRENDS - 5 POINTS -STATUS: Done
 Determine the correlation between token prices and their associated Google Trends. What are the implications of this correlation?
 
-### TIME LAG - 10 POINTS - IDEA: shift(1) on count to cordinate with hypothetical price raise
+### TIME LAG - 10 POINTS - Done
 Explore the ideal time lags that enhance the correlations, as mentioned earlier. What insights can be garnered from this investigation?
 
 ### TOKEN PATTERNS - 5 POINTS 
