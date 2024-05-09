@@ -1,6 +1,6 @@
 # Decypering Crypto Trends
 ### Google Trends Analysis and Predictive Modeling
-
+#### Ocean Protocol Data Challenge #5 2024
 This repo aims to asses influence to price on several cryptocurrencies through using the level of interest from Google Trends. 
 
 First of all correlations showcase a positive correlation between the level of interest and the price of a token. Also, there are quite significant differences between cycles. 
